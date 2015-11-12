@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ProductsViewController collectionView:numberOfItemsInSection:]:ProductsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.dao.products count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductsViewController collectionView:didSelectItemAtIndexPath:]:ProductsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CompaniesViewController setEditing:animated:]:CompaniesViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DAO initCompanyData]:DAO.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CompaniesViewController collectionView:cellForItemAtIndexPath:]:CompaniesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.editing">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductsViewController collectionView:cellForItemAtIndexPath:]:ProductsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CompaniesViewController viewDidLoad]:CompaniesViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CompaniesViewController numberOfSectionsInCollectionView:]:CompaniesViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CompaniesViewController collectionView:numberOfItemsInSection:]:CompaniesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.dao.companies count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DAO downloadStocksAndCallSelector:onObject:]:DAO.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CompaniesViewController collectionView:didSelectItemAtIndexPath:]:CompaniesViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DAO initCompaniesAndProducts]:DAO.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[qcdDemoViewController tableView:cellForRowAtIndexPath:]:qcdDemoViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentCompany.stockPrice">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DAO deleteCompany:]:DAO.m">
+      </ContextState>
+      <ContextState
+         contextName = "__46-[DAO downloadStocksAndCallSelector:onObject:]_block_invoke:DAO.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
